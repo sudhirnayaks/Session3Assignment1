@@ -9,8 +9,7 @@ public class Assignment1 {
 		System.exit(0);
 	}
 	public static void main(String args[]){
-	
-
-}
+		
+	}
 
 }
